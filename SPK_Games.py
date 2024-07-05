@@ -15,7 +15,7 @@ try:
 except FileNotFoundError:
     # If file doesn't exist, continue with empty lists
     pass
-print('--- Welcome to our SPK webpage ---')
+print('--- Welcome to our SPK Games ---')
 # Function for login
 def pk_login():
     while True:
